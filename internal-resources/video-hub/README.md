@@ -1,4 +1,4 @@
-# [tktk Module Name] - Video Hub
+# JS: Rock, Paper, Scissors Browser Game - Video Hub
 
 ![Hero image](../../assets/tktkhero-secondary.png)
 

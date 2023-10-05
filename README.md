@@ -1,19 +1,24 @@
-# [tktk Module Name]
+# JS: Rock, Paper, Scissors Browser Game
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
-
-tktk What is the takeaway of this module?
+ In this interactive session, we'll guide you step-by-step through the creation of this classic game, transforming it into a dynamic web experience. 
 
 ## Content outline
 
 | Lesson | Video Time | Video | Topics Covered |
 | ------ |:----------:|:-----:| -------------- |
-| [tktk Microlesson Name](./tktk-microlesson-01/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-02/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-| [tktk Microlesson Name](./tktk-microlesson-03/README.md) | tktk min | [tktk Link]() | tktk topics covered |
-|  **Total Module**                                        | tktk min | ---           | ---                 |
+| [Introduction & User Stories](./introduction-user-stories/README.md) | -- | -- | how users inform planning |
+| [Pseudocode](./pseudocode/README.md) | -- | -- | planning the application |
+| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md) | -- | -- | programmatic thinking when setting up code |
+| [Constants, Variables & Cached Element References](./constants-variables-cached-elements/README.md) | -- | -- | declaring all variables |
+| [Event Listeners](./event-listeners/README.md) | -- | -- | adding even listeners to elements |
+| [Game Logic](./game-logic/README.md) | -- | -- | changing state, comparison logic and final state |
+| [Render](./render/README.md) | -- | -- | render results to user |
+| [Play](./play/README.md) | -- | -- | all helpers under one roof |
+| [Solution](./solution/README.md) | -- | -- | final solution code |
+|  **Total Module**     | -- | ---           | ---                 |
 
 ## Additional content 
 
@@ -21,9 +26,8 @@ tktk What is the takeaway of this module?
 
 ### 🚀 Level Up
 
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-01.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-02.md)
-- [tktk Level Up Microlesson Name](./level-up/tktk-microlesson-03.md)
+- [Play again?](./level-up/play-again.md)
+- [Add instructions](./level-up/add-instructions.md)
 
 ## Internal resources
 

@@ -1,4 +1,4 @@
-# [tktk Module Name] - References
+# JS: Rock, Paper, Scissors Browser Game - References
 
 ![Hero image](./assets/hero.png)
 
@@ -6,8 +6,6 @@
 
 Links from lessons:
 
-- [tktk descriptive name of link]()
+- **[Logical AND && Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)**
 
-- [tktk descriptive name of link]()
 
-- [tktk descriptive name of link]()

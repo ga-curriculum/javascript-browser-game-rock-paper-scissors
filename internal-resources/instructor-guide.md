@@ -1,4 +1,4 @@
-# [tktk Module Name] - Instructor Guide
+# JS: Rock, Paper, Scissors Browser Game - Instructor Guide
 
 ![Hero image](../assets/tktkhero-secondary.png)
 
