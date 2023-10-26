@@ -28,10 +28,10 @@ In your HTML, add a button element below your game's display/message area.
 Write a function in your JavaScript to reset the game's state.
 
 ```js
-function resetGame() {
+const resetGame = () => {
   playerChoice = null;
   computerChoice = null;
-  msg = "";  // also clear any displayed messages or game outcomes on the page.
+  msg = '';  // also clear any displayed messages or game outcomes on the page.
 }
 ```
 
@@ -40,7 +40,7 @@ function resetGame() {
 Use an event listener to call your reset function when the "Reset Game" button is clicked.
 
 ```js
-document.getElementById('resetButton').addEventListener('click', resetGame);
+document.querySelector('#resetButton').addEventListener('click', resetGame);
 ```
 
 4) **Test Your Button:**

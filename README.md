@@ -3,7 +3,8 @@
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Module overview
- In this interactive session, we'll guide you step-by-step through the creation of this classic game, transforming it into a dynamic web experience. 
+
+In this interactive session, we'll guide you step-by-step through the creation of this classic game, transforming it into a dynamic web experience. 
 
 ## Content outline
 

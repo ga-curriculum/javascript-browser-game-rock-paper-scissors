@@ -14,10 +14,10 @@ The next few sections will consider the following user stories:
 
 Initialize a globally available constant called `choices`. The `choices` constant will hold the three moves a player can make inside of an array. This constant, in contrast with our state variables, will *not* change or update.
 
-```jsx
+```js
 /*-------------------------------- Constants --------------------------------*/
 
-const choices = ["rock", "paper", "scissors"]
+const choices = ['rock', 'paper', 'scissors'];
 ```
 
 ## Variables (Game State)
@@ -30,10 +30,12 @@ In our game, we'll manage three key pieces of information that will be our game'
 
 For now, we'll only initialize these variables and assign their values based on the game's progression later.
 
-```jsx
+```js
 /*-------------------------------- Variables --------------------------------*/
 
-let playerChoice, computerChoice, msg
+let playerChoice;
+let computerChoice; 
+let msg;
 ```
 
 > 💡 State describes the *status* of an individual object or entire program. When determining what needs to be held in state, ask yourself “What changes do we need to keep track of to know the current state of the game?”
@@ -45,10 +47,10 @@ In the Cached Element References section, define a cached element reference that
 
 The `msg` variable we created above will store the interchangeable *message data*, while `resultDisplayEl` represents the *DOM element* that will display that message. 
 
-```jsx
+```js
 /*------------------------ Cached Element References ------------------------*/
 
-const resultDisplayEl = document.getElementById("result-display")
+const resultDisplayEl = document.querySelector('#result-display');
 ```
 
 > ❓ What element of HTML are we targeting with the above command?

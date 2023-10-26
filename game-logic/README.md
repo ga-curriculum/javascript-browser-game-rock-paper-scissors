@@ -12,9 +12,9 @@ In a round of Rock, Paper, Scissors a player can click on one of three buttons t
 
 Within our `play` function, we will eventually call upon any other functions that need to be executed to complete a round of the game. We’ll build out the remaining functions next, but for now let’s stub up the `play` function and verify that our event listeners are working properly with a `console.log`.
 
-```jsx
-function play(event) {
-  console.log(event.target)
+```js
+const play = (ev) => {
+  console.log(ev.target);
 }
 ```
 
@@ -31,14 +31,14 @@ Next you’ll need to create a function to handle setting game state. The `getPl
 
 Stub up the `getPlayerChoice` function you see below. Then refactor your code to call it within `play`.
 
-```jsx
-function getPlayerChoice(event) {
-  console.log('getPlayerChoice:', event)
-}
+```js
+const getPlayerChoice = (ev) => {
+  console.log('getPlayerChoice:', ev);
+};
 
-function play(event) {
-  getPlayerChoice(event)
-}
+const play = (ev) => {
+  getPlayerChoice(ev);
+};
 ```
 
 > 🗒️ Note: Our `getPlayerChoice` function relies on the `event` object to set `playerChoice` state. In the `play` function, we have to pass the `event` down to getPlayerChoice so that it has access to `event` as well!
@@ -48,18 +48,18 @@ Earlier we saw how `event.target` contains data related to the clicked element. 
 
 By accessing the `id` of the button a player clicked on, we can update the `playerChoice` variable accordingly. When a player clicks on the button with the `id` “scissors”, our function should set `playerChoice` to the string “scissors”. 
 
-```jsx
-function getPlayerChoice(event) {
-  playerChoice = event.target.id
-}
+```js
+const getPlayerChoice = (ev) => {
+  playerChoice = ev.target.id;
+};
 
-function play(event) {
-  getPlayerChoice(event)
-  console.log(playerChoice) // <= verify that everything is working!
-}
+const play = (ev) => {
+  getPlayerChoice(ev);
+  console.log(playerChoice); // <= verify that everything is working!
+};
 ```
 
-```jsx
+```html
 <main>
   <button id="rock">🪨</button>
   <button id="paper">📄</button>
@@ -80,11 +80,11 @@ We’ll use square bracket notation to access our `choices` array at that random
 
 Every time this function runs, it will select a new element from the choices array randomly and assign it to our `computerChoice` state variable, like so:
 
-```jsx
-function getComputerChoice() {
-  const randomIndex = Math.floor(Math.random() * choices.length)
-  computerChoice = choices[randomIndex]
-}
+```js
+const getComputerChoice = () => {
+  const randomIndex = Math.floor(Math.random() * choices.length);
+  computerChoice = choices[randomIndex];
+};
 ```
 
 ## `compare`
@@ -97,20 +97,20 @@ Next, we’ll build the main game logic- a function to compare the choices store
 - Otherwise, we’ll need to determine all of the possible outcomes in which the player would have the winning hand. If none of those scenarios are true, our else statement will assume that the player lost.
 
 
-```jsx
-function compare() {
+```js
+const compare = () => {
   if (playerChoice === computerChoice) {
-    msg = 'You tied!'
+    msg = 'You tied!';
   } else if (playerChoice === choices[0] && computerChoice === choices[2]) { // "rock" vs. "scissors"
-    msg = "Congrats! You win!"
+    msg = 'Congrats! You win!';
   } else if (playerChoice === choices[1] && computerChoice === choices[0]) { // "paper" vs. "rock"
-    msg = "Congrats! You win!"
+    msg = 'Congrats! You win!';
   } else if (playerChoice === choices[2] && computerChoice === choices[1]) { // "scissors" vs. "paper"
-    msg = "Congrats! You win!"
+    msg = 'Congrats! You win!';
   } else {
-    msg = "You lose! Try again?"
+    msg = 'You lose! Try again?';
   }
-}
+};
 ```
 
 > 🧠 For more information on how this solution works, check out the [**Logical AND && Operator**](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND) on MDN.

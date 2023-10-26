@@ -51,8 +51,8 @@ Next, we'll need to consider the following user stories as we outline the main g
 
 > As a user, I want to be presented with a clear message indicating the winner of the game, so that I can immediately understand the outcome.
 
-
 ```
+
 5) Compare the player choice to the computer choice, and check for a winner
 
 6) Render a win/lose/tie message to the player 

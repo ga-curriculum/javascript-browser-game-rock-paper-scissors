@@ -102,7 +102,7 @@ button:hover {
 
 In `**app.js**`, add the following sections using commented-out lines. This will help us organize our code a bit.
 
-```jsx
+```javascript
 /*-------------------------------- Constants --------------------------------*/
 
 /*-------------------------------- Variables --------------------------------*/

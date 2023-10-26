@@ -2,7 +2,6 @@
 
 ![Hero image](./assets/hero.png)
 
-
 # How do I play?
 
 Clear instructions are essential for browser games to ensure players understand the mechanics of how to play. 

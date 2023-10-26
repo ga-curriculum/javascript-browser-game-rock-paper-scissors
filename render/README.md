@@ -15,9 +15,9 @@ It’s best practice to do this within a `render` function, whose job it is to r
 
 In this case, our `playerChoice`, `computerChoice`, and `msg` state have all changed since the page first loaded. We’ll update the `textContent` of `resultDisplayEl` to reflect those changes. 
 
-```jsx
-function render() {
-  resultDisplayEl.textContent = `You chose ${playerChoice} and the computer chose ${computerChoice}. ${msg}`
+```js
+const render = () => {
+  resultDisplayEl.textContent = `You chose ${playerChoice} and the computer chose ${computerChoice}. ${msg}`;
 }
 ```
 
