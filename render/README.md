@@ -1,6 +1,4 @@
-# JS: Rock, Paper, Scissors Browser Game - Render
-
-![Hero image](./assets/hero.png)
+# ![JS: Rock, Paper, Scissors Browser Game - Render](./assets/hero.png)
 
 **Learning objective:** By the end of this section, students will understand how to dynamically update the DOM to reflect changes in game state, specifically by utilizing a render function to showcase the results to the player.
 

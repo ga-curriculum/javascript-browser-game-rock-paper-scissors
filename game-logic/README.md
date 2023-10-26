@@ -1,8 +1,6 @@
-# JS: Rock, Paper, Scissors Browser Game - 🎮 Game Logic
+# ![JS: Rock, Paper, Scissors Browser Game - 🎮 Game Logic](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this section, students will be able to utilize JavaScript functions to manage game state, understand event handling in the context of user interactions, and implement game logic to determine the outcome of one round of play. 
+**Learning objective:** By the end of this section, students will be able to utilize JavaScript functions to manage game state, understand event handling from user interactions, and implement game logic to determine the outcome of one round of play. 
 
 ## Setup `play`
 

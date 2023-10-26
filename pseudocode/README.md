@@ -1,8 +1,6 @@
-# JS: Rock, Paper, Scissors Browser Game - Pseudocode
+# ![JS: Rock, Paper, Scissors Browser Game - Pseudocode](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this lesson, students will be able to write the pseudocode that guides the implementation of key features in their application.
+**Learning objective:** By the end of this section, students will be able to write the pseudocode that guides the implementation of key features in their game. 
 
 
 ## Learning to plan like a programmer

@@ -1,8 +1,6 @@
-# JS: Rock, Paper, Scissors Browser Game - Scaffolding the Application
+# ![JS: Rock, Paper, Scissors Browser Game - Scaffolding the Application](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** Students will prepare the structure of their webpage using provided starter code.
+**Learning objective:** Students will prepare the structure of their webpage using the provided starter code.
 
 ## Creating our main page
 

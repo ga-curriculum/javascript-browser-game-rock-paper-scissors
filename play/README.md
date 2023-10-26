@@ -1,8 +1,6 @@
-# JS: Rock, Paper, Scissors Browser Game - Play
+# ![JS: Rock, Paper, Scissors Browser Game - Play](./assets/hero.png)
 
-![Hero image](./assets/hero.png)
-
-**Learning objective:** By the end of this section, students will understand how to effectively organize and sequence game logic within a central function. They will learn to integrate individual functions to create a coherent gameplay experience triggered by a user's action, specifically by executing multiple functions in response to a single event.
+**Learning objective:** By the end of this section, students will understand how to effectively organize and sequence game logic within a central function. They will learn to integrate individual functions to create a sequential gameplay progression triggered by a user's action, specifically by executing multiple functions in response to a single event.
 
 ## `play`
 

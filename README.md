@@ -1,34 +1,35 @@
-# JS: Rock, Paper, Scissors Browser Game
+# ![JS: Rock, Paper, Scissors Browser Game](./assets/tktkhero-main.png)
 
-![Hero image](./assets/tktkhero-main.png)
+## About
 
-## Module overview
+In this guided code along, we'll lead you step-by-step through transforming a classic game of rock paper scissors into an interactive browser game.
 
-In this interactive session, we'll guide you step-by-step through the creation of this classic game, transforming it into a dynamic web experience. 
+## Content
 
-## Content outline
-
-| Lesson | Video Time | Video | Topics Covered |
+| Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
-| [Introduction & User Stories](./introduction-user-stories/README.md) | -- | -- | how users inform planning |
-| [Pseudocode](./pseudocode/README.md) | -- | -- | planning the application |
-| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md) | -- | -- | programmatic thinking when setting up code |
-| [Constants, Variables & Cached Element References](./constants-variables-cached-elements/README.md) | -- | -- | declaring all variables |
-| [Event Listeners](./event-listeners/README.md) | -- | -- | adding even listeners to elements |
-| [Game Logic](./game-logic/README.md) | -- | -- | changing state, comparison logic and final state |
-| [Render](./render/README.md) | -- | -- | render results to user |
-| [Play](./play/README.md) | -- | -- | all helpers under one roof |
-| [Solution](./solution/README.md) | -- | -- | final solution code |
-|  **Total Module**     | -- | ---           | ---                 |
+| [Introduction & User Stories](./introduction-user-stories/README.md) | -- | -- | How users inform planning |
+| [Pseudocode](./pseudocode/README.md) | -- | -- | Planning the application |
+| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md) | -- | -- | Programmatic thinking when setting up code |
+| [Constants, Variables & Cached Element References](./constants-variables-cached-elements/README.md) | -- | -- | Declaring all variables |
+| [Event Listeners](./event-listeners/README.md) | -- | -- | Adding event listeners to DOM elements |
+| [Game Logic](./game-logic/README.md) | -- | -- | Changing state, comparison logic and final state |
+| [Render](./render/README.md) | -- | -- | Render results to user |
+| [Play](./play/README.md) | -- | -- | All helpers under one roof |
+| [Solution](./solution/README.md) | -- | -- | Final solution code |
+|  **Total Module**     | -- | --  |           |
 
-## Additional content 
+## Level Up content
+
+| Lesson | Video Time | Video | Skills |
+| ------ |:----------:|:-----:| -------------- |
+| [Play again?](./level-up/play-again.md) | -- | -- | Adding reset logic to the game |
+| [Add instructions](./level-up/add-instructions.md) | -- | -- | Adding written instructions to your site |
+|  **Bonus**     | -- | --  |           |
+
+## References 
 
 📖 [Reference Materials](./references/README.md)
-
-### 🚀 Level Up
-
-- [Play again?](./level-up/play-again.md)
-- [Add instructions](./level-up/add-instructions.md)
 
 ## Internal resources
 

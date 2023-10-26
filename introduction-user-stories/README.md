@@ -1,6 +1,4 @@
-# JS: Rock, Paper, Scissors Browser Game - Introduction and User Stories
-
-![Hero image](./assets/hero.png)
+# ![JS: Rock, Paper, Scissors Browser Game - Introduction and User Stories](./assets/hero.png)
 
 **Learning objective:** Students will review the user stories that will drive the planning and design of our Rock Paper Scissors game. 
 

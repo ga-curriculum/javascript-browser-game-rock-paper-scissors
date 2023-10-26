@@ -1,6 +1,4 @@
-# JS: Rock, Paper, Scissors Browser Game - Level Up - Add Instructions
-
-![Hero image](./assets/hero.png)
+# ![JS: Rock, Paper, Scissors Browser Game - Level Up - Add Instructions](./assets/tktk)
 
 # How do I play?
 
