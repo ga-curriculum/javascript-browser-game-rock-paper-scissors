@@ -2,7 +2,7 @@
 
 **Learning objective:** By the end of this section, students will be able to utilize JavaScript functions to manage game state, understand event handling from user interactions, and implement game logic to determine the outcome of one round of play. 
 
-## Setup `play`
+## `play`
 
 > 🥅 Goal: contain and organize our game logic
 
