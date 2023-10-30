@@ -18,7 +18,6 @@ const play = (ev) => {
 
 Now try clicking on a button! Take a few minutes to inspect `event.target` in the browser console.
 
-
 ## `getPlayerChoice`
 
 > 🥅 Goal: set `playerChoice` to the `id` of the button the player clicked.

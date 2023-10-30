@@ -2,7 +2,6 @@
 
 **Learning objective:** By the end of this section, students will be able to write the pseudocode that guides the implementation of key features in their game. 
 
-
 ## Learning to plan like a programmer
 
 After crafting our user stories, we'll now outline pseudocode to guide the implementation of these features in our application. To start, let's focus on the logic that powers a typical game of rock, paper, scissors.
@@ -20,7 +19,6 @@ If we consult our user stories, we know that the players selection of "hand" sho
 > As a user, I want to be able to easily click on one of the "Rock," "Paper," or "Scissors" buttons, so I can make my weapon choice for the game.
 
 > As a user, I want visual feedback after making my selection, so I know my choice has been registered.
-
 
 ## Pseudocode
 

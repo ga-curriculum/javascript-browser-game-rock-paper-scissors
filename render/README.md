@@ -6,7 +6,6 @@
 
 > 🥅 Goal: update the text of `resultDisplayEl` to reflect the changes in game state.
 
-
 Now that the result of our compare function has updated `msg` state, we need to show the player the result! 
 
 It’s best practice to do this within a `render` function, whose job it is to re-render elements of the DOM when the state changes. 
