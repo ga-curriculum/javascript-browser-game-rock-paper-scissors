@@ -1,6 +1,6 @@
 # ![JS: Rock, Paper, Scissors Browser Game - Level Up - Add Instructions](./assets/tktk)
 
-# How do I play?
+## How do I play?
 
 Clear instructions are essential for browser games to ensure players understand the mechanics of how to play. 
 Without them, users may become frustrated or lose interest, leading to decreased engagement and eventual abandonment.

@@ -18,7 +18,7 @@ document.querySelector('#scissors').addEventListener('click', play);
 
 > 🚀 How could we refactor the code above to better adhere to the ***DRY principle**?*
 
-- Possible Solution:
+- Possible solution:
 
 ```js
 document.querySelectorAll('button').forEach(function (button) {

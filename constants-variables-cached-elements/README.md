@@ -18,7 +18,7 @@ Initialize a globally available constant called `choices`. The `choices` constan
 const choices = ['rock', 'paper', 'scissors'];
 ```
 
-## Variables (Game State)
+## Variables (game state)
 
 In our game, we'll manage three key pieces of information that will be our game's ***state***:
 
@@ -39,7 +39,7 @@ let msg;
 > 💡 State describes the *status* of an individual object or entire program. When determining what needs to be held in state, ask yourself “What changes do we need to keep track of to know the current state of the game?”
 
 
-## Cached Elements
+## Cached elements
 
 In the Cached Element References section, define a cached element reference that will be used to display the game message. Simply put, we need to grab the element in the DOM that will be tasked with displaying our message and save it to a variable for ease of use later. We'll name this `resultDisplayEl`. 
 

@@ -2,7 +2,7 @@
 
 Enhance your Rock, Paper, Scissors game by adding a button that allows users to clear the game state and start anew, offering a streamlined experience without having to reload the page.
 
-## 🚀 **Stretch Goal**: Implementing a "Reset" Button
+## Implementing a reset button
 
 
 **Objective:**

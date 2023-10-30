@@ -9,8 +9,7 @@ Build a refined Rock Paper Scissors game incorporating the web technologies and 
 - JavaScript
 - DOM Manipulation
 
-## User Stories
-
+## User stories
 
 > 🧠 Remember formatting your user stories as smaller, more focused stories can make the development process easier to manage.
 
