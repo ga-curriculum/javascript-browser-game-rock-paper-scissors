@@ -1,11 +1,10 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Render](./assets/hero.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Render](./assets/hero.png)
 
 **Learning objective:** By the end of this section, students will understand how to dynamically update the DOM to reflect changes in game state, specifically by utilizing a render function to showcase the results to the player.
 
 ## `render`
 
 > 🥅 Goal: update the text of `resultDisplayEl` to reflect the changes in game state.
-
 
 Now that the result of our compare function has updated `msg` state, we need to show the player the result! 
 

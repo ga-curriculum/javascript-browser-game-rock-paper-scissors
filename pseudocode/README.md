@@ -1,7 +1,6 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Pseudocode](./assets/hero.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Pseudocode](./assets/hero.png)
 
 **Learning objective:** By the end of this section, students will be able to write the pseudocode that guides the implementation of key features in their game. 
-
 
 ## Learning to plan like a programmer
 
@@ -20,7 +19,6 @@ If we consult our user stories, we know that the players selection of "hand" sho
 > As a user, I want to be able to easily click on one of the "Rock," "Paper," or "Scissors" buttons, so I can make my weapon choice for the game.
 
 > As a user, I want visual feedback after making my selection, so I know my choice has been registered.
-
 
 ## Pseudocode
 

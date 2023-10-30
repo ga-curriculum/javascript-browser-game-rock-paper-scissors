@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game](./assets/tktkhero-main.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors](./assets/hero.png)
 
 ## About
 

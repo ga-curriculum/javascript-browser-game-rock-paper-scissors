@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Scaffolding the Application](./assets/hero.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Scaffolding the Application](./assets/hero.png)
 
 **Learning objective:** Students will prepare the structure of their webpage using the provided starter code.
 
@@ -25,7 +25,7 @@ Let's review our starter code!
 
 ## HTML
 
-Add the following to your `**index.html**` file. 
+Add the following to your `index.html` file. 
 
 ```html
 <!DOCTYPE html>
@@ -98,7 +98,7 @@ button:hover {
 
 ## JavaScript
 
-In `**app.js**`, add the following sections using commented-out lines. This will help us organize our code a bit.
+In `app.js`, add the following sections using commented-out lines. This will help us organize our code a bit.
 
 ```javascript
 /*-------------------------------- Constants --------------------------------*/

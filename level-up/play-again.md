@@ -1,8 +1,8 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Level Up - Play Again?](./assets/tktk)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Play Again?](./assets/hero-play-again.png)
 
 Enhance your Rock, Paper, Scissors game by adding a button that allows users to clear the game state and start anew, offering a streamlined experience without having to reload the page.
 
-## 🚀 **Stretch Goal**: Implementing a "Reset" Button
+## Implementing a reset button
 
 
 **Objective:**
@@ -13,7 +13,7 @@ Currently there is no visual indication that the game can continue once a player
 Let's implement this functionality. 
 
 
-1) **Design the Button:**
+1) **Design the button:**
 
 In your HTML, add a button element below your game's display/message area.
 
@@ -21,7 +21,7 @@ In your HTML, add a button element below your game's display/message area.
 <button id="resetButton">Reset Game</button>
 ```
 
-2) **Add Reset Functionality:**
+2) **Add reset functionality:**
 
 Write a function in your JavaScript to reset the game's state.
 
@@ -33,7 +33,7 @@ const resetGame = () => {
 }
 ```
 
-3) **Bind the Function to the Button:**
+3) **Bind the function to the button:**
 
 Use an event listener to call your reset function when the "Reset Game" button is clicked.
 
@@ -41,7 +41,7 @@ Use an event listener to call your reset function when the "Reset Game" button i
 document.querySelector('#resetButton').addEventListener('click', resetGame);
 ```
 
-4) **Test Your Button:**
+4) **Test your button:**
 
 Play the game a few times, making different choices. Use the reset button to see if the game state is cleared and you can start over seamlessly.
 
