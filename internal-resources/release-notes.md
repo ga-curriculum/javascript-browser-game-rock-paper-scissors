@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Release Notes](../assets/tktkhero-secondary.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Release Notes](../assets/release-notes.png)
 
 ## Version 1.0 - Updates from legacy content
 

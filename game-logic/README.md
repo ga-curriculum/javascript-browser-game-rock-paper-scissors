@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game - 🎮 Game Logic](./assets/hero.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Game Logic](./assets/hero.png)
 
 **Learning objective:** By the end of this section, students will be able to utilize JavaScript functions to manage game state, understand event handling from user interactions, and implement game logic to determine the outcome of one round of play. 
 
@@ -20,7 +20,6 @@ Now try clicking on a button! Take a few minutes to inspect `event.target` in th
 
 
 ## `getPlayerChoice`
-
 
 > 🥅 Goal: set `playerChoice` to the `id` of the button the player clicked.
 
@@ -68,9 +67,7 @@ const play = (ev) => {
 
 ## `getComputerChoice`
 
-
 > 🥅 Goal: set `computerChoice` to a random element from the `choices` array
-
 
 Now that the `playerChoice` state is set, we also need a function that can capture and update `computerChoice` state. We can do this by generating a random number between 0 - 2, and using the resulting number as an index. 
 

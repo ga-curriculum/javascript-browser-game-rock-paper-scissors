@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Level Up - Play Again?](./assets/tktk)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Play Again?](./assets/hero-play-again.png)
 
 Enhance your Rock, Paper, Scissors game by adding a button that allows users to clear the game state and start anew, offering a streamlined experience without having to reload the page.
 

@@ -1,4 +1,4 @@
-# ![JS: Rock, Paper, Scissors Browser Game - Solution](./assets/hero.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Solution](./assets/hero.png)
 
 
 You did it! 🎉 
