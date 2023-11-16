@@ -2,11 +2,11 @@
 
 ## About
 
-In this guided code along, we'll lead you step-by-step through transforming a classic game of rock paper scissors into an interactive browser game.
+In this instructor-lead code along, we'll guide you step-by-step through transforming a classic game of rock paper scissors into an interactive browser game.
 
 ## Prerequisites
 
-- Foundational HTML, CSS, and JavaScript
+- Foundational knowledge of HTML, CSS, and JavaScript
 - Intro to the DOM
 - Dom Events
 
