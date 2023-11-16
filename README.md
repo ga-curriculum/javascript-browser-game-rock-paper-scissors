@@ -4,6 +4,12 @@
 
 In this guided code along, we'll lead you step-by-step through transforming a classic game of rock paper scissors into an interactive browser game.
 
+## Prerequisites
+
+- Foundational HTML, CSS, and JavaScript
+- Intro to the DOM
+- Dom Events
+
 ## Content
 
 | Lesson | Video Time | Video | Skills |
@@ -17,15 +23,15 @@ In this guided code along, we'll lead you step-by-step through transforming a cl
 | [Render](./render/README.md) | -- | -- | Render results to user |
 | [Play](./play/README.md) | -- | -- | All helpers under one roof |
 | [Solution](./solution/README.md) | -- | -- | Final solution code |
-|  **Total Module**     | -- | --  |           |
+|  **Total Content**     | -- | --  |           |
 
 ## Level Up content
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
 | [Play again?](./level-up/play-again.md) | -- | -- | Adding reset logic to the game |
-| [Add instructions](./level-up/add-instructions.md) | -- | -- | Adding written instructions to your site |
-|  **Bonus**     | -- | --  |           |
+| [Add instructions](./level-up/add-instructions.md) | -- | -- | Adding instructions for game play|
+|  **Total Level Up content**     | -- | --  |           |
 
 ## References 
 
