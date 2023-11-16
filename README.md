@@ -2,7 +2,7 @@
 
 ## About
 
-In this instructor-lead code along, we'll guide you step-by-step through transforming a classic game of rock paper scissors into an interactive browser game.
+In this instructor-led code-along, we’ll guide you step-by-step through the exciting process of transforming a classic game of rock paper scissors into an interactive browser game. This session is tailored for entry-level developers who have foundational knowledge in HTML, CSS, and JavaScript but are new to DOM manipulation and handling events. It’s a perfect opportunity to apply your basic coding skills in a practical setting and gain hands-on experience with interactive web development.
 
 ## Prerequisites
 
