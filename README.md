@@ -14,15 +14,15 @@ In this instructor-led code-along, we’ll guide you step-by-step through the ex
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| -------------- |
-| [Introduction & User Stories](./introduction-user-stories/README.md) | -- | -- | How users inform planning |
-| [Pseudocode](./pseudocode/README.md) | -- | -- | Planning the application |
-| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md) | -- | -- | Programmatic thinking when setting up code |
+| [Introduction & User Stories](./user-stories/README.md) | -- | -- | How user stories inform application design |
+| [Pseudocode](./pseudocode/README.md) | -- | -- | Programmatic thinking when planning our code |
+| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md) | -- | -- | Setting up our files and starter code |
 | [Constants, Variables & Cached Element References](./constants-variables-cached-elements/README.md) | -- | -- | Declaring all variables |
 | [Event Listeners](./event-listeners/README.md) | -- | -- | Adding event listeners to DOM elements |
 | [Game Logic](./game-logic/README.md) | -- | -- | Changing state, comparison logic and final state |
 | [Render](./render/README.md) | -- | -- | Render results to user |
 | [Play](./play/README.md) | -- | -- | All helpers under one roof |
-| [Solution](./solution/README.md) | -- | -- | Final solution code |
+| [Solution](./solution/README.md) | -- | -- | Final javascript code |
 |  **Total Content**     | -- | --  |           |
 
 ## Level Up content
