@@ -1,8 +1,8 @@
 # ![JavaScript Browser Game - Rock, Paper, Scissors - Solution](./assets/hero.png)
 
-You did it! 🎉 
+You did it! 🎉
 
-If you need to check your work, the full JavaScript solution code can be found here. 
+If you need to check your work, the full JavaScript solution code can be found here.
 
 ```js
 
@@ -28,8 +28,8 @@ document.querySelector('#scissors').addEventListener('click', play);
 
 /*-------------------------------- Functions --------------------------------*/
 
-const getPlayerChoice = (ev) => {
-  playerChoice = ev.target.id;
+const getPlayerChoice = (event) => {
+  playerChoice = event.target.id;
 };
 
 const getComputerChoice = () => {
@@ -55,8 +55,8 @@ const render() => {
   resultDisplayEl.textContent = `You chose ${playerChoice} and the computer chose ${computerChoice}. ${msg}`
 }
 
-const play(ev) => {
-  getPlayerChoice(ev);
+const play(event) => {
+  getPlayerChoice(event);
   getComputerChoice();
   compare();
   render();

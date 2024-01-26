@@ -4,8 +4,8 @@
 
 The next few sections will consider the following user stories:
 
->  As a user, I want to see the computer's choice displayed next to mine, so I can compare the two.
-
+> As a user, I want to see the computer's choice displayed next to mine, so I can compare the two.
+>
 > As a user, I want to be presented with a clear message indicating the winner of the game, so that I can immediately understand the outcome.
 
 ## Constants
@@ -40,9 +40,9 @@ let msg;
 
 ## Cached elements
 
-In the Cached Element References section, define a cached element reference that will be used to display the game message. Simply put, we need to grab the element in the DOM that will be tasked with displaying our message and save it to a variable for ease of use later. We'll name this `resultDisplayEl`. 
+In the Cached Element References section, define a cached element reference that will be used to display the game message. Simply put, we need to grab the element in the DOM that will be tasked with displaying our message and save it to a variable for ease of use later. We'll name this `resultDisplayEl`.
 
-The `msg` variable we created above will store the interchangeable *message data*, while `resultDisplayEl` represents the *DOM element* that will display that message. 
+The `msg` variable we created above will store the interchangeable *message data*, while `resultDisplayEl` represents the *DOM element* that will display that message.
 
 ```js
 /*------------------------ Cached Element References ------------------------*/
