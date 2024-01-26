@@ -9,8 +9,8 @@
 Finally, we have all of the functions necessary to make our game work! Let’s make sure they are all being used, and called upon in the correct order in our `play` function. Reminder- `play` is the function called when the user initiates game play by clicking Paper, Rock, or Scissors.
 
 ```js
-const play = (ev) => {
-  getPlayerChoice(ev);  // captures player choice, updates state
+const play = (event) => {
+  getPlayerChoice(event);  // captures player choice, updates state
   getComputerChoice();  // randomly selects computers choice, updates state
   compare();            // determines winning result
   render();             // renders result message back to the user 

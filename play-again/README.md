@@ -1,19 +1,14 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Play Again?](./assets/hero-play-again.png)
+# ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Play Again?](./assets/hero.png)
 
 Enhance your Rock, Paper, Scissors game by adding a button that allows users to clear the game state and start anew, offering a streamlined experience without having to reload the page.
 
 ## Implementing a reset button
 
+Currently there is no visual indication that the game can continue once a player has won or lost. Technically, you can just keep making selections to play future rounds, however, this isn't clearly communicated. It's also arguably not the most elegant user experience. Many games will feature a "reset" option to revert the game back to its original state without having to reload the page.
 
-**Objective:**
+Let's implement this functionality.
 
-Currently there is no visual indication that the game can continue once a player has won or lost. Technically, you can just keep making selections to play future rounds, however, this isn't clearly communicated. It's also arguably not the most elegant user experience. Many games will feature a "reset" option to revert the game back to its original state without having to reload the page. 
-
-
-Let's implement this functionality. 
-
-
-1) **Design the button:**
+### Design the button
 
 In your HTML, add a button element below your game's display/message area.
 
@@ -21,7 +16,7 @@ In your HTML, add a button element below your game's display/message area.
 <button id="resetButton">Reset Game</button>
 ```
 
-2) **Add reset functionality:**
+### Add reset functionality
 
 Write a function in your JavaScript to reset the game's state.
 
@@ -33,18 +28,18 @@ const resetGame = () => {
 }
 ```
 
-3) **Bind the function to the button:**
+### Bind the function to the button
 
-Use an event listener to call your reset function when the "Reset Game" button is clicked.
+Use an event listener to call your reset function when the **Reset Game** button is clicked.
 
 ```js
 document.querySelector('#resetButton').addEventListener('click', resetGame);
 ```
 
-4) **Test your button:**
+### Test your button
 
 Play the game a few times, making different choices. Use the reset button to see if the game state is cleared and you can start over seamlessly.
 
-5) **Style your button**
+### Style your button
 
-Nobody likes a plain button. 
+Nobody likes a plain button.

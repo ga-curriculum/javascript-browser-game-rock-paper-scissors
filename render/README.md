@@ -6,11 +6,11 @@
 
 > 🥅 Goal: update the text of `resultDisplayEl` to reflect the changes in game state.
 
-Now that the result of our compare function has updated `msg` state, we need to show the player the result! 
+Now that the result of our compare function has updated `msg` state, we need to show the player the result!
 
-It’s best practice to do this within a `render` function, whose job it is to re-render elements of the DOM when the state changes. 
+It’s best practice to do this within a `render` function, whose job it is to re-render elements of the DOM when the state changes.
 
-In this case, our `playerChoice`, `computerChoice`, and `msg` state have all changed since the page first loaded. We’ll update the `textContent` of `resultDisplayEl` to reflect those changes. 
+In this case, our `playerChoice`, `computerChoice`, and `msg` state have all changed since the page first loaded. We’ll update the `textContent` of `resultDisplayEl` to reflect those changes.
 
 ```js
 const render = () => {
@@ -20,7 +20,7 @@ const render = () => {
 
 If you test this function, the final readout on screen should look something like this:
 
-```
+```plaintext
 You chose rock and the computer chose scissors. You Win!
 ```
 
