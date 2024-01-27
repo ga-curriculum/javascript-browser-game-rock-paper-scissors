@@ -10,7 +10,7 @@ This session is tailored for entry-level developers who have foundational knowle
 
 - Foundational knowledge of HTML, CSS, and JavaScript
 - Intro to the DOM
-- Dom Events
+- DOM Events
 
 ## Content
 
