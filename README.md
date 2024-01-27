@@ -16,18 +16,18 @@ This session is tailored for entry-level developers who have foundational knowle
 
 | Lesson | Video Time | Video | Skills |
 | ------ |:----------:|:-----:| ------ |
-| [Introduction & User Stories](./user-stories/README.md)                                             | -- | -- | How user stories inform application design.       |
-| [Pseudocode](./pseudocode/README.md)                                                                | -- | -- | Programmatic thinking when planning our code.     |
-| [Scaffolding the Application - HTML, CSS, JS](./scaffolding-the-application/README.md)              | -- | -- | Setting up our files and starter code.            |
-| [Constants, Variables & Cached Element References](./constants-variables-cached-elements/README.md) | -- | -- | Declaring all variables.                          |
-| [Event Listeners](./event-listeners/README.md)                                                      | -- | -- | Adding event listeners to DOM elements.           |
-| [Game Logic](./game-logic/README.md)                                                                | -- | -- | Changing state, comparison logic and final state. |
-| [Render](./render/README.md)                                                                        | -- | -- | Render results to user.                           |
-| [Play](./play/README.md)                                                                            | -- | -- | All helpers under one roof.                       |
-| [Solution](./solution/README.md)                                                                    | -- | -- | Final JavaScript code.                            |
-| [Play again?](./play-again/README.md)                                                               | -- | -- | Adding reset logic to the game.                   |
-| [Add instructions](./add-instructions/README.md)                                                    | -- | -- | Adding instructions for game play.                |
-|  **Total content**                                                                                  | -- | -- |                                                   |
+| [User Stories](./user-stories/README.md)                                                                   | -- | -- | How user stories inform application design.       |
+| [Pseudocode](./pseudocode/README.md)                                                                       | -- | -- | Programmatic thinking when planning our code.     |
+| [Scaffolding the Application](./scaffolding-the-application/README.md)                                     | -- | -- | Setting up our files and starter code.            |
+| [Constants, Variables, and Cached Element References](./constants-variables-and-cached-elements/README.md) | -- | -- | Declaring all variables.                          |
+| [Event Listeners](./event-listeners/README.md)                                                             | -- | -- | Adding event listeners to DOM elements.           |
+| [Game Logic](./game-logic/README.md)                                                                       | -- | -- | Changing state, comparison logic and final state. |
+| [Render](./render/README.md)                                                                               | -- | -- | Render results to user.                           |
+| [Play](./play/README.md)                                                                                   | -- | -- | All helpers under one roof.                       |
+| [Solution](./solution/README.md)                                                                           | -- | -- | Final JavaScript code.                            |
+| [Play again?](./play-again/README.md)                                                                      | -- | -- | Adding reset logic to the game.                   |
+| [Add instructions](./add-instructions/README.md)                                                           | -- | -- | Adding instructions for game play.                |
+|  **Total content**                                                                                         | -- | -- |                                                   |
 
 ## References
 
