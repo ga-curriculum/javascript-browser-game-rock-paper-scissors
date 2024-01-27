@@ -26,7 +26,7 @@ This session is tailored for entry-level developers who have foundational knowle
 | [Play](./play/README.md)                                                                                   | -- | -- | All helpers under one roof.                       |
 | [Solution](./solution/README.md)                                                                           | -- | -- | Final JavaScript code.                            |
 | [Play again?](./play-again/README.md)                                                                      | -- | -- | Adding reset logic to the game.                   |
-| [Add instructions](./add-instructions/README.md)                                                           | -- | -- | Adding instructions for game play.                |
+| [Add Instructions](./add-instructions/README.md)                                                           | -- | -- | Adding instructions for game play.                |
 |  **Total content**                                                                                         | -- | -- |                                                   |
 
 ## References

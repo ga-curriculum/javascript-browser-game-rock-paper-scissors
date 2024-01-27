@@ -25,4 +25,4 @@ This session is tailored for entry-level developers who have foundational knowle
 | Lesson | Skills |
 | ------ | ------ |
 | [Play again?](../play-again/README.md)            | Adding reset logic to the game.    |
-| [Add instructions](../add-instructions/README.md) | Adding instructions for game play. |
+| [Add Instructions](../add-instructions/README.md) | Adding instructions for game play. |
