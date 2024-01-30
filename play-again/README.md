@@ -1,5 +1,7 @@
 # ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Play Again?](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson, students will be able to enhance their Rock, Paper, Scissors game by implementing a reset functionality. They will learn to integrate a reset button into their game, write JavaScript functions to clear and reset the game state, and bind these functions to the button using event listeners. 
+
 Enhance your Rock, Paper, Scissors game by adding a button that allows users to clear the game state and start anew, offering a streamlined experience without having to reload the page.
 
 ## Implementing a reset button
