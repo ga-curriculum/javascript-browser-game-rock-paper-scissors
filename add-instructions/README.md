@@ -1,5 +1,7 @@
 # ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Add Instructions](./assets/hero.png)
 
+**Learning objective:** By the end of this lesson students will add gameplay instructions to their application to improve the user experience.
+
 ## How do I play?
 
 Clear instructions are essential for browser games to ensure players understand the mechanics of how to play.
