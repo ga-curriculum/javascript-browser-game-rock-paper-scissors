@@ -37,7 +37,7 @@ const getComputerChoice = () => {
   computerChoice = choices[randomIndex];
 };
 
-const compare() => {
+const compare = () => {
   if (playerChoice === computerChoice) {
     msg = 'You tied!';
   } else if (playerChoice === choices[0] && computerChoice === choices[2]) {
