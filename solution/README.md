@@ -20,12 +20,6 @@ let msg;
 
 const resultDisplayEl = document.querySelector('#result-display');
 
-/*----------------------------- Event Listeners -----------------------------*/
-
-document.querySelector('#rock').addEventListener('click', play);
-document.querySelector('#paper').addEventListener('click', play);
-document.querySelector('#scissors').addEventListener('click', play);
-
 /*-------------------------------- Functions --------------------------------*/
 
 const getPlayerChoice = (event) => {
@@ -61,4 +55,11 @@ const play = (event) => {
   compare();
   render();
 }
+
+/*----------------------------- Event Listeners -----------------------------*/
+
+document.querySelector('#rock').addEventListener('click', play);
+document.querySelector('#paper').addEventListener('click', play);
+document.querySelector('#scissors').addEventListener('click', play);
+
 ```
