@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Constants, Variables & Cached Element References](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Constants Variables and Cached Elements</span>
+</h1>
 
 **Learning objective:** By the end of this section, students will understand how to initialize constants and variables that represent game state, and how to create cached references to essential DOM elements.
 

@@ -1,17 +1,16 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Release Notes](../assets/release-notes.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Release Notes</span>
+</h1>
 
-## Version 1.0 - Updates from legacy content
+## Version 1.0
 
-***Nothing here yet.***
+This is a new lesson.
 
 ### Release details
 
 **Additions**
 
-
-
 **Changes**
-
-
 
 **Removals**

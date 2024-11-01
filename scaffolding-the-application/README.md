@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Scaffolding the Application](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Scaffolding the Application</span>
+</h1>
 
 **Learning objective:** Students will prepare the structure of their webpage using the provided starter code.
 

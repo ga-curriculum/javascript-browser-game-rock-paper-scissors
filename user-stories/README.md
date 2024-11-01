@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - User Stories](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">User Stories</span>
+</h1>
 
 **Learning objective:** Students will review the user stories that will drive the planning and design of our Rock Paper Scissors game.
 

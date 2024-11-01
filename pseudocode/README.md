@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Pseudocode](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Pseudocode</span>
+</h1>
 
 **Learning objective:** By the end of this section, students will be able to write the pseudocode that guides the implementation of key features in their game.
 

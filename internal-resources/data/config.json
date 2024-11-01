@@ -1,0 +1,211 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "JavaScript Browser Game - Rock, Paper, Scissors",
+    "name": "javascript-browser-game-rock-paper-scissors",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "User Stories",
+          "dirName": "user-stories",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Pseudocode",
+          "dirName": "pseudocode",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Scaffolding the Application",
+          "dirName": "scaffolding-the-application",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Constants Variables and Cached Elements",
+          "dirName": "constants-variables-and-cached-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Event Listeners",
+          "dirName": "event-listeners",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Game Logic",
+          "dirName": "game-logic",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Render",
+          "dirName": "render",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Play",
+          "dirName": "play",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Solution",
+          "dirName": "solution",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Play Again?",
+          "dirName": "play-again",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Add Instructions",
+          "dirName": "add-instructions",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "seb",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Setup",
+          "dirName": "setup",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "User Stories",
+          "dirName": "user-stories",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Pseudocode",
+          "dirName": "pseudocode",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Scaffolding the Application",
+          "dirName": "scaffolding-the-application",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Constants Variables and Cached Elements",
+          "dirName": "constants-variables-and-cached-elements",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Event Listeners",
+          "dirName": "event-listeners",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Game Logic",
+          "dirName": "game-logic",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Render",
+          "dirName": "render",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Play",
+          "dirName": "play",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Solution",
+          "dirName": "solution",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Play Again?",
+          "dirName": "play-again",
+          "type": "Level Up content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Add Instructions",
+          "dirName": "add-instructions",
+          "type": "Level Up content",
+          "videoUrl": ""
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

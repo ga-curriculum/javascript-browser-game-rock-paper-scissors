@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors](../assets/hero.png)
+<h1>
+  <span class="prefix">JavaScript Browser Game</span>
+  <span class="headline">Rock, Paper, Scissors</span>
+</h1>
 
 ## About
 
@@ -8,8 +11,9 @@ This session is tailored for entry-level developers who have foundational knowle
 
 ## Content
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                                                                                      | Skills                                            |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [Setup](../setup/README.md)                                                                                 | Setting up the development environment            |
 | [User Stories](../user-stories/README.md)                                                                   | How user stories inform application design.       |
 | [Pseudocode](../pseudocode/README.md)                                                                       | Programmatic thinking when planning our code.     |
 | [Scaffolding the Application](../scaffolding-the-application/README.md)                                     | Setting up our files and starter code.            |
@@ -22,7 +26,11 @@ This session is tailored for entry-level developers who have foundational knowle
 
 ## Level Up content
 
-| Lesson | Skills |
-| ------ | ------ |
+| Lesson                                            | Skills                             |
+| ------------------------------------------------- | ---------------------------------- |
 | [Play again?](../play-again/README.md)            | Adding reset logic to the game.    |
 | [Add Instructions](../add-instructions/README.md) | Adding instructions for game play. |
+
+## References
+
+📖 [Reference Materials](../references/README.md)

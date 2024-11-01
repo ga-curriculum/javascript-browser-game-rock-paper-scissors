@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Level Up - Add Instructions](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Add Instructions</span>
+</h1>
 
 **Learning objective:** By the end of this lesson students will add gameplay instructions to their application to improve the user experience.
 

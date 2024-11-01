@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Event Listeners](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Event Listeners</span>
+</h1>
 
 **Learning objective:** By the end of this section, students will understand how to implement event listeners in JavaScript for specific DOM elements, allowing for user interaction.
 

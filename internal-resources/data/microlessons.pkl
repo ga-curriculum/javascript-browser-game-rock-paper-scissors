@@ -1,0 +1,88 @@
+import "https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/static/v2/pkl/template.pkl" as Template
+
+// Add microlessons here, in the order they should be delivered
+
+setup = new Template.Microlesson {
+  friendlyName = "Setup"
+  dirName = "setup"
+  type = "Content"
+  videoUrl = ""
+}
+
+userStories = new Template.Microlesson {
+  friendlyName = "User Stories"
+  dirName = "user-stories"
+  type = "Content"
+  videoUrl = ""
+}
+
+pseudocode = new Template.Microlesson {
+  friendlyName = "Pseudocode"
+  dirName = "pseudocode"
+  type = "Content"
+  videoUrl = ""
+}
+
+scaffoldingTheApplication = new Template.Microlesson {
+  friendlyName = "Scaffolding the Application"
+  dirName = "scaffolding-the-application"
+  type = "Content"
+  videoUrl = ""
+}
+
+constantsVariablesAndCachedElements = new Template.Microlesson {
+  friendlyName = "Constants Variables and Cached Elements"
+  dirName = "constants-variables-and-cached-elements"
+  type = "Content"
+  videoUrl = ""
+}
+
+eventListeners = new Template.Microlesson {
+  friendlyName = "Event Listeners"
+  dirName = "event-listeners"
+  type = "Content"
+  videoUrl = ""
+}
+
+gameLogic = new Template.Microlesson {
+  friendlyName = "Game Logic"
+  dirName = "game-logic"
+  type = "Content"
+  videoUrl = ""
+}
+
+render = new Template.Microlesson {
+  friendlyName = "Render"
+  dirName = "render"
+  type = "Content"
+  videoUrl = ""
+}
+
+play = new Template.Microlesson {
+  friendlyName = "Play"
+  dirName = "play"
+  type = "Content"
+  videoUrl = ""
+}
+
+solution = new Template.Microlesson {
+  friendlyName = "Solution"
+  dirName = "solution"
+  type = "Content"
+  videoUrl = ""
+}
+
+playAgain = new Template.Microlesson {
+  friendlyName = "Play Again?"
+  dirName = "play-again"
+  type = "Content"
+  videoUrl = ""
+}
+
+addInstructions = new Template.Microlesson {
+  friendlyName = "Add Instructions"
+  dirName = "add-instructions"
+  type = "Content"
+  videoUrl = ""
+}
+

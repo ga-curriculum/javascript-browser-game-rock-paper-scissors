@@ -1,4 +1,7 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - Setup](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">Setup</span>
+</h1>
 
 Open your Terminal application and navigate to your `~/code/ga/lectures` directory:
 
@@ -6,11 +9,11 @@ Open your Terminal application and navigate to your `~/code/ga/lectures` directo
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called `js-rock-paper-scissors`, then enter this directory:
+Make a new directory called `javascript-browser-game-rock-paper-scissors`, then enter this directory:
 
 ```bash
-mkdir js-rock-paper-scissors
-cd js-rock-paper-scissors
+mkdir javascript-browser-game-rock-paper-scissors
+cd javascript-browser-game-rock-paper-scissors
 ```
 
 Then, create an `app.js` and an `index.html` file. These files will hold your work for this lecture:

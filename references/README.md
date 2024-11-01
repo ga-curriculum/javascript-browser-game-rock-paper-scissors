@@ -1,7 +1,8 @@
-# ![JavaScript Browser Game - Rock, Paper, Scissors - References](./assets/hero.png)
+<h1>
+  <span class="headline">Rock, Paper, Scissors</span>
+  <span class="subhead">References</span>
+</h1>
 
 ## Lesson references
 
-Links from lessons:
-
-- **[Logical AND && Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)**
+- [Logical AND && Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND)
