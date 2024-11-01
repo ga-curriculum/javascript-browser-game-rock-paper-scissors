@@ -30,3 +30,7 @@ This session is tailored for entry-level developers who have foundational knowle
 ## References
 
 📖 [Reference Materials](../references/README.md)
+
+## Deployed sites
+
+🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution/)
