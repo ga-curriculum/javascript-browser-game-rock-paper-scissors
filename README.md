@@ -38,13 +38,15 @@ This session is tailored for entry-level developers who have foundational knowle
 - Intro to the DOM
 - DOM Events
 
+## Solution code
+
+🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution)
+
 ### Deployed sites
 
 🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution/)
 
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution)
-
-### Github Pages Sites
+### Course landing pages
 
 - [Default Landing Page](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors/canvas-landing-pages/fallback)
 - [SEB - Software Engineering Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors/canvas-landing-pages/seb)
