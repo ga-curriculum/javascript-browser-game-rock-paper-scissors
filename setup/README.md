@@ -32,7 +32,7 @@ code .
 Open the `index.html` file and add HTML boilerplate. Then make use of the `app.js` file by adding this line inside the `<head>` tag:
 
 ```html
-<script defer src="./app.js"></script>
+<script defer src="./js/app.js"></script>
 ```
 
 With this setup complete, we'll have two methods at our disposal for executing the code we write in `app.js`:
