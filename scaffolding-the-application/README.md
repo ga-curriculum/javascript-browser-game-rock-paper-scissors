@@ -38,8 +38,8 @@ Add the following to your `index.html` file.
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Rock Paper Scissors</title>
-  <link rel="stylesheet" href="./style.css" />
-  <script defer src="./app.js"></script>
+  <link rel="stylesheet" href="./css/style.css" />
+  <script defer src="./js/app.js"></script>
 </head>
 
 <body>
