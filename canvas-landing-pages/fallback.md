@@ -33,4 +33,4 @@ This session is tailored for entry-level developers who have foundational knowle
 
 ## Deployed sites
 
-🌐 [Live Example](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution/)
+🌐 [Live Example](https://ga-curriculum.github.io/javascript-browser-game-rock-paper-scissors-solution/)
