@@ -40,7 +40,7 @@ This session is tailored for entry-level developers who have foundational knowle
 
 ## Solution code
 
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/javascript-browser-game-rock-paper-scissors-solution)
+🏁 [Solution code](https://github.com/ga-curriculum/javascript-browser-game-rock-paper-scissors-solution)
 
 ### Deployed sites
 
